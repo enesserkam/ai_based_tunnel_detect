@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/724340311443464891/aeabd5e4e3eb43d397b78681735b7b4b/artifacts
+end_time: 1690791038924
+entry_point_name: ''
+experiment_id: '724340311443464891'
+lifecycle_stage: active
+run_id: aeabd5e4e3eb43d397b78681735b7b4b
+run_name: industrious-colt-564
+run_uuid: aeabd5e4e3eb43d397b78681735b7b4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690790755446
+status: 3
+tags: []
+user_id: nrerk

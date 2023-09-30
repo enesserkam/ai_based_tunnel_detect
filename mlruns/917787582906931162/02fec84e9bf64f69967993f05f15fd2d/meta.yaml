@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/917787582906931162/02fec84e9bf64f69967993f05f15fd2d/artifacts
+end_time: 1693485718201
+entry_point_name: ''
+experiment_id: '917787582906931162'
+lifecycle_stage: active
+run_id: 02fec84e9bf64f69967993f05f15fd2d
+run_name: high1_suspicious2
+run_uuid: 02fec84e9bf64f69967993f05f15fd2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693485715876
+status: 3
+tags: []
+user_id: nrerk

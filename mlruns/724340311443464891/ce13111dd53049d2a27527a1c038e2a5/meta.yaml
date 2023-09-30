@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/724340311443464891/ce13111dd53049d2a27527a1c038e2a5/artifacts
+end_time: 1690792650982
+entry_point_name: ''
+experiment_id: '724340311443464891'
+lifecycle_stage: active
+run_id: ce13111dd53049d2a27527a1c038e2a5
+run_name: rogue-dog-384
+run_uuid: ce13111dd53049d2a27527a1c038e2a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690792144911
+status: 3
+tags: []
+user_id: nrerk

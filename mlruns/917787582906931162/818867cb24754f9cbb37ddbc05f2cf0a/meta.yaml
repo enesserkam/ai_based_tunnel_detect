@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/917787582906931162/818867cb24754f9cbb37ddbc05f2cf0a/artifacts
+deleted_time: 1693816418428
+end_time: 1693813895786
+entry_point_name: ''
+experiment_id: '917787582906931162'
+lifecycle_stage: deleted
+run_id: 818867cb24754f9cbb37ddbc05f2cf0a
+run_name: rf_balanced
+run_uuid: 818867cb24754f9cbb37ddbc05f2cf0a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693813893013
+status: 4
+tags: []
+user_id: nrerk

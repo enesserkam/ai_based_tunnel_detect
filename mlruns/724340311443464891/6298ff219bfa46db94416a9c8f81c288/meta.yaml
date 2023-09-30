@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/724340311443464891/6298ff219bfa46db94416a9c8f81c288/artifacts
+end_time: 1690803969851
+entry_point_name: ''
+experiment_id: '724340311443464891'
+lifecycle_stage: active
+run_id: 6298ff219bfa46db94416a9c8f81c288
+run_name: Artifact_3
+run_uuid: 6298ff219bfa46db94416a9c8f81c288
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690803798063
+status: 3
+tags: []
+user_id: nrerk

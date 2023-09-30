@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/724340311443464891/2a66482085a648089243006ecaf38e17/artifacts
+deleted_time: 1690797890288
+end_time: null
+entry_point_name: ''
+experiment_id: '724340311443464891'
+lifecycle_stage: deleted
+run_id: 2a66482085a648089243006ecaf38e17
+run_name: tasteful-elk-241
+run_uuid: 2a66482085a648089243006ecaf38e17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690797380351
+status: 1
+tags: []
+user_id: nrerk

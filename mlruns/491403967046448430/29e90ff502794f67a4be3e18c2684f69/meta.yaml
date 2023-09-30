@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/491403967046448430/29e90ff502794f67a4be3e18c2684f69/artifacts
+end_time: 1690887981424
+entry_point_name: ''
+experiment_id: '491403967046448430'
+lifecycle_stage: active
+run_id: 29e90ff502794f67a4be3e18c2684f69
+run_name: Recall_074
+run_uuid: 29e90ff502794f67a4be3e18c2684f69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690887340517
+status: 3
+tags: []
+user_id: nrerk

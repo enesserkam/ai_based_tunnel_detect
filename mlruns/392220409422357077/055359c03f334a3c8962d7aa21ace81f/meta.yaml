@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/392220409422357077/055359c03f334a3c8962d7aa21ace81f/artifacts
+deleted_time: 1691660981615
+end_time: null
+entry_point_name: ''
+experiment_id: '392220409422357077'
+lifecycle_stage: deleted
+run_id: 055359c03f334a3c8962d7aa21ace81f
+run_name: Confusion_Matrix
+run_uuid: 055359c03f334a3c8962d7aa21ace81f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691656218376
+status: 1
+tags: []
+user_id: nrerk

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/0/74e126c909eb492fbe5dc6943a523487/artifacts
+end_time: 1691152892116
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74e126c909eb492fbe5dc6943a523487
+run_name: gaudy-conch-754
+run_uuid: 74e126c909eb492fbe5dc6943a523487
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691152730638
+status: 3
+tags: []
+user_id: nrerk

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/491403967046448430/c5926d11720d493797c6324c5a2daedd/artifacts
+end_time: 1690897351693
+entry_point_name: ''
+experiment_id: '491403967046448430'
+lifecycle_stage: active
+run_id: c5926d11720d493797c6324c5a2daedd
+run_name: threshold_045
+run_uuid: c5926d11720d493797c6324c5a2daedd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690897115362
+status: 3
+tags: []
+user_id: nrerk

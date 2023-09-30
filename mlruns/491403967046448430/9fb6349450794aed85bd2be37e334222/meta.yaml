@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/491403967046448430/9fb6349450794aed85bd2be37e334222/artifacts
+end_time: 1690901295516
+entry_point_name: ''
+experiment_id: '491403967046448430'
+lifecycle_stage: active
+run_id: 9fb6349450794aed85bd2be37e334222
+run_name: Deneme
+run_uuid: 9fb6349450794aed85bd2be37e334222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690901009620
+status: 3
+tags: []
+user_id: nrerk

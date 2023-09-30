@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/917787582906931162/9ddaf1d5ea2f4306b6aabdf5d0b9024a/artifacts
+end_time: 1693569430976
+entry_point_name: ''
+experiment_id: '917787582906931162'
+lifecycle_stage: active
+run_id: 9ddaf1d5ea2f4306b6aabdf5d0b9024a
+run_name: rf_ada_swap
+run_uuid: 9ddaf1d5ea2f4306b6aabdf5d0b9024a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693569428453
+status: 3
+tags: []
+user_id: nrerk

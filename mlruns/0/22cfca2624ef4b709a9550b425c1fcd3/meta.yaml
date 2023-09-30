@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/0/22cfca2624ef4b709a9550b425c1fcd3/artifacts
+end_time: 1692780604423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22cfca2624ef4b709a9550b425c1fcd3
+run_name: kindly-bear-245
+run_uuid: 22cfca2624ef4b709a9550b425c1fcd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692780387659
+status: 3
+tags: []
+user_id: nrerk

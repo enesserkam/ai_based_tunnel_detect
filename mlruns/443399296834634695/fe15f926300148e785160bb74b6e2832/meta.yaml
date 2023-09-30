@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/443399296834634695/fe15f926300148e785160bb74b6e2832/artifacts
+end_time: 1690971908622
+entry_point_name: ''
+experiment_id: '443399296834634695'
+lifecycle_stage: active
+run_id: fe15f926300148e785160bb74b6e2832
+run_name: RandomForest
+run_uuid: fe15f926300148e785160bb74b6e2832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690971095047
+status: 3
+tags: []
+user_id: nrerk

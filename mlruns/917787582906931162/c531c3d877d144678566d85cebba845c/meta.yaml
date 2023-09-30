@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/nrerk/PycharmProjects/pythonProject/mlruns/917787582906931162/c531c3d877d144678566d85cebba845c/artifacts
+deleted_time: 1693823198965
+end_time: 1693823110507
+entry_point_name: ''
+experiment_id: '917787582906931162'
+lifecycle_stage: deleted
+run_id: c531c3d877d144678566d85cebba845c
+run_name: deneme
+run_uuid: c531c3d877d144678566d85cebba845c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1693823109069
+status: 4
+tags: []
+user_id: nrerk
